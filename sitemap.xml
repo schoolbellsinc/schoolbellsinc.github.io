@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>http://schoolbellsinc.github.io/</loc>
     <lastmod>2016-08-25T16:35:43+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/2016/08/25/firstpost/</loc>
+    <loc>http://schoolbellsinc.github.io/2016/08/25/firstpost/</loc>
     <lastmod>2016-08-25T16:35:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>http://schoolbellsinc.github.io/about/</loc>
     <lastmod>2016-08-25T16:35:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/home/</loc>
+    <loc>http://schoolbellsinc.github.io/home/</loc>
     <lastmod>2016-08-25T16:35:31+00:00</lastmod>
   </url>
   

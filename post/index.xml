@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on sitename</title>
-    <link>http://www.example.com/post/</link>
-    <description>Recent content in Posts on sitename</description>
+    <title>Posts on schoolbellsinc</title>
+    <link>http://schoolbellsinc.github.io/post/</link>
+    <description>Recent content in Posts on schoolbellsinc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2015 yourname.</copyright>
+    <copyright>(c) 2015 School Bells, Inc.</copyright>
     <lastBuildDate>Thu, 25 Aug 2016 16:35:43 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://schoolbellsinc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>firstpost</title>
-      <link>http://www.example.com/2016/08/25/firstpost/</link>
+      <link>http://schoolbellsinc.github.io/2016/08/25/firstpost/</link>
       <pubDate>Thu, 25 Aug 2016 16:35:43 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://www.example.com/2016/08/25/firstpost/</guid>
+      <guid>http://schoolbellsinc.github.io/2016/08/25/firstpost/</guid>
       <description>&lt;p&gt;Education&lt;/p&gt;
 
 &lt;p&gt;The Belizean Educational System is based on British and Caribbean Models which divide schools into Primary, Secondary and Tertiary tiers. Children begin their eight years of primary education with two years of &amp;laquo;Infant&amp;raquo; classes, followed by six &amp;laquo;standards&amp;raquo;. Secondary education is divided into four &amp;laquo;forms&amp;raquo;. The sixth form of 2 years is the equivalent to Junior Colleges (Sixth Form) that provide post-secondary diplomas recognized in most American and Caribbean institutions of higher learning.&lt;/p&gt;

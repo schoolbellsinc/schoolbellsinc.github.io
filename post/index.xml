@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on sitename</title>
+    <link>http://www.example.com/post/</link>
+    <description>Recent content in Posts on sitename</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 yourname.</copyright>
+    <lastBuildDate>Thu, 25 Aug 2016 16:35:43 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>firstpost</title>
+      <link>http://www.example.com/2016/08/25/firstpost/</link>
+      <pubDate>Thu, 25 Aug 2016 16:35:43 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/2016/08/25/firstpost/</guid>
+      <description>&lt;p&gt;Education&lt;/p&gt;
+
+&lt;p&gt;The Belizean Educational System is based on British and Caribbean Models which divide schools into Primary, Secondary and Tertiary tiers. Children begin their eight years of primary education with two years of &amp;laquo;Infant&amp;raquo; classes, followed by six &amp;laquo;standards&amp;raquo;. Secondary education is divided into four &amp;laquo;forms&amp;raquo;. The sixth form of 2 years is the equivalent to Junior Colleges (Sixth Form) that provide post-secondary diplomas recognized in most American and Caribbean institutions of higher learning.&lt;/p&gt;
+
+&lt;p&gt;The majority of schools are public and funded by both the Belizean Government and The Roman Catholic Church. Belize&amp;rsquo;s existing literacy rate is about 75 to 90 percent with an approximate fifty percent secondary dropout rate especially in the Toledo District.&lt;/p&gt;
+
+&lt;p&gt;Although the Educational Act of 2000 made primary education compulsory for children five to nine years of age, the mandate is not strictly enforced. In addition, nearly three out of five high school aged children are not enrolled in school at this time. Read More
+EDUCATIONAL NEEDS:&lt;/p&gt;
+
+&lt;p&gt;We are always in need of volunteers and financial donations to help make a difference. Won&amp;rsquo;t you help?&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Whiteboards, bookshelves, books, computers, printers, book bags&lt;/li&gt;
+&lt;li&gt;Overhead projectors, furniture, minor repairs, painting, toilets&lt;/li&gt;
+&lt;li&gt;TV, copier, educational software, radio to warn them of hurricane&lt;/li&gt;
+&lt;li&gt;Adult Summer Literacy Program/ Children&amp;rsquo;s Summer Projects&lt;/li&gt;
+&lt;li&gt;Sponsors to sponsor a child&amp;rsquo;s school fees, text books, or uniforms&lt;/li&gt;
+&lt;li&gt;Donations of children&amp;rsquo;s books, library books, basic school supplies&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
